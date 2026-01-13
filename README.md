@@ -1,2 +1,0 @@
-# ArciApps-KlubMerger-
-Text merger 
